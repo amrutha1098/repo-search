@@ -202,9 +202,10 @@ class UI_HELPER(API_OPERATIONS, BROWSER_HELPER):
     def verify_whole_table_repo_details_data(self):
         try:
             self.login()
-    
-            self.search_text(self.searchtext)
+
             self.select_drop_down(self.drop_down_value)
+            self.search_text(self.searchtext)
+
             expected_json = self.form_json(self.drop_down_value)
     
             actual_json = []
