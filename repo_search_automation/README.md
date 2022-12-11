@@ -29,10 +29,10 @@ Move to the foder repo-search and execute the following command
 ```console 
 python3 setup.py [-t [smoke | full_regression ]] 
 
+```
+
 smoke : runs somke test cases
 full_regression : runs full fledged test
-
-```
 
 
 To run individauly 
