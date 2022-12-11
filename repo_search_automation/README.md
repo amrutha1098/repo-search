@@ -24,7 +24,7 @@ pip install requests
 
 ### Run
 
-Move to the foder repo-search and execute the following command 
+Move to the foder <strong>/repo-search</strong> and execute the following command 
 
 ```console 
 python3 setup.py [-t [smoke | full_regression ]] 
