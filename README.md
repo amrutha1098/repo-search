@@ -2,7 +2,7 @@
 
 The git hub repo for repo-search [link](https://github.com/kesavan-rangan/repo-search)
 
-The original repo for this can be found in [Github](https://github.com/amrutha1098/repo_search_auto)
+The original repo for automation this can be found in https://github.com/amrutha1098/repo_search_auto
 
 Automated framework for repository Search [Github](https://github.com/kesavan-rangan/repo-search)
 
