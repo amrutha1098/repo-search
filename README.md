@@ -23,6 +23,8 @@ pip install requests
 
 2 . Copy the required chrome webdriver to repo_search_automation/input folder [link](https://chromedriver.chromium.org/downloads).
     To check which chromedriver to be downloaded open google chrome, click the three dots in the upper-right corner of the window and click on help.
+ 
+3. If subprocess module is not installed , install python3 subprocess module.
 
 ### Run
 
