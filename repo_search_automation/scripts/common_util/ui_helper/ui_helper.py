@@ -5,6 +5,7 @@ class UI_HELPER(API_OPERATIONS, BROWSER_HELPER):
 
     def __init__(self):
         API_OPERATIONS.__init__(self)
+        BROWSER_HELPER.__init__(self)
         pass
 
     def form_json(self, limit=1):

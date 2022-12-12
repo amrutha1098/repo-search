@@ -155,6 +155,7 @@ class BROWSER_HELPER:
                 print(len(button_array))
                 button = button_array[table_index]
                 button.click()
+                self.wait_for_load_complete()
                 retry_count += 3
             except:
                 if retry_count > 2:
